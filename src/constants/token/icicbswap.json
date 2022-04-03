@@ -1,0 +1,91 @@
+{
+  "name": "icicbswap",
+  "timestamp": "2021-01-5T15:41:29.665Z",
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "/images/coins/ICICB.png",
+  "keywords": ["icicb", "default"],
+  "tokens": [
+    {
+      "name": "WICICB",
+      "symbol": "WICICB",
+      "address": "0x57d68E70d4A1cfd722351BeDbDD5a331a395c90D",
+      "chainId": 26,
+      "decimals": 18
+    },
+    {
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "address": "0xcC06D4434bfCF6Fd4de407f804440BeA61b5C215",
+      "chainId": 26,
+      "decimals": 18
+    },
+    {
+      "name": "BNB",
+      "symbol": "BNB",
+      "address": "0x1b1fEb36D2e5DD2641357EB05F8950947C133A26",
+      "chainId": 26,
+      "decimals": 18
+    },
+    {
+      "name": "USDT",
+      "symbol": "USDT",
+      "address": "0x695E8fA3a6fC23e234ea9D3C14e599c20F379846",
+      "chainId": 26,
+      "decimals": 18
+    },
+    {
+      "name": "USDC",
+      "symbol": "USDC",
+      "address": "0xF1a6c5F4ea0aB93543deE5B23F04dBd1D8Be7c5C",
+      "chainId": 26,
+      "decimals": 18
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "address": "0xf475C14902621f48B7B3F093a10834d2DBf2AbA3",
+      "chainId": 26,
+      "decimals": 18
+    },
+    {
+      "name": "LiteCoin",
+      "symbol": "LTC",
+      "address": "0x0d57196fF6df088ebA0a8eAE6BBcb5003585D4dE",
+      "chainId": 26,
+      "decimals": 18
+    },
+    {
+      "name": "Bitcoin Cash",
+      "symbol": "BCH",
+      "address": "0x13798b03b2Ec7c9c43461A956bAEA41666faE811",
+      "chainId": 26,
+      "decimals": 18
+    },
+    {
+      "name": "Ripple",
+      "symbol": "XRP",
+      "address": "0x66C8F57C789Bd28A41baD782Be5839D0210260c1",
+      "chainId": 26,
+      "decimals": 18
+    },
+    {
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "address": "0x78f4F808c2f1b271E8dFA994fe1D79d6872f6129",
+      "chainId": 26,
+      "decimals": 18
+    },
+    {
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "address": "0x4B5aBb3257A18621389c3FA80e619FFF583E108b",
+      "chainId": 26,
+      "decimals": 18
+    }
+  ]
+}
